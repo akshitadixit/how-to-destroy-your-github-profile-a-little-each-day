@@ -5,7 +5,7 @@ Almost all of this content is A) stolen from other people or from AI and B) not 
 
 ## Table of Contents
 
-1. [Chapter 1: GitHub: The Good, The Bad, and The Ugly](/https://github.com/akshitadixit/how-to-destroy-your-github-profile-a-little-each-day/tree/main/GitHub:%20The%20Good%2C%20the%20Bad%20and%20the%20Ugly)
+1. [Chapter 1: GitHub: The Good, The Bad, and The Ugly](https://github.com/akshitadixit/how-to-destroy-your-github-profile-a-little-each-day/tree/main/GitHub:%20The%20Good%2C%20the%20Bad%20and%20the%20Ugly)
 2. [Chapter 2: GitHub Privacy Pitfalls](https://github.com/akshitadixit/how-to-destroy-your-github-profile-a-little-each-day/tree/main/GitHub%20Privacy%20Pitfalls)
 3. [Chapter 3: The Git Blame Game](https://github.com/akshitadixit/how-to-destroy-your-github-profile-a-little-each-day/tree/main/The%20Git%20Blame%20Game)
 4. [Chapter 4: GitHub and Your Reputation](https://github.com/akshitadixit/how-to-destroy-your-github-profile-a-little-each-day/tree/main/GitHub%20and%20Your%20Reputation)
